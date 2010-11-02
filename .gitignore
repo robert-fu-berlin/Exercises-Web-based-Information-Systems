@@ -1,6 +1,5 @@
 .metadata/
 bin/
 .classpath
-.settings/
 .tomcat/tmp0
 build/
