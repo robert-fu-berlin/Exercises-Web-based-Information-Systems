@@ -1,0 +1,25 @@
+(a) Es werden zwei Klassen (Land, Stadt) und ein Attribut (hauptstadt_von) definiert. Beide Klassen werden mit englischen Labels versehen (Land: "country", Stadt: "city"). Deutschland wird als Objekt der Klasse Land erzeugt, Berlin als Objekt der Klasse Stadt. Berlin wird außerdem mit einem englischen Label versehen ("Berlin") und mit Hilfe des Attributs hauptstadt_von als Hauptstadt Deutschlands definiert.
+
+(b) ...
+
+(c)
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix ex: <http://example.org/>.
+
+ex:deutschland rdf:type ex:Land.
+ex:hauptstadt_von
+  rdf:type rdf:Property;
+  rdfs:domain ex:Stadt;
+  rdfs:range ex:Land.
+ex:Land
+  rdf:type rdfs:Class;
+  rdfs:label "country"@en.
+ex:berlin
+  rdfs:label "Berlin"@en;
+  rdf:type ex:Stadt;
+  ex:hauptstadt_von ex:deutschland.
+ex:Stadt
+  rdf:type rdfs:Class;
+  rdfs:label "city"@en.

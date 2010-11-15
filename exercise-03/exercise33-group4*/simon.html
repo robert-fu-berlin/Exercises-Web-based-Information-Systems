@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  version="XHTML+RDFa 1.0" xml:lang="en"
+>
+  <head>
+    <title>Simon Hohberg</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body about="http://example.org/simon.html#me" typeof="foaf:Person">
+    <table>
+      <tbody>
+        <tr>
+          <td>Image</td>
+          <td><span rel="foaf:img"><img src="smiley.png" width="100px" height="100px" alt="Me" /></span></td>
+        </tr>
+        <tr>
+          <td>Name</td>
+          <td><span property="foaf:name">Simon Hohberg</span></td>
+        </tr>
+        <tr>
+          <td>Email address</td>
+          <td><a rel="foaf:mbox" href="mailto:simhoh@gmx.de">simhoh@gmx.de</a></td>
+        </tr>
+        <tr>
+          <td>Phone number</td>
+          <td><a rel="foaf:phone" href="tel:+49-123-4567890">+49 123 34567890</a></td>
+        </tr>
+        <tr>
+          <td>Home address</td>
+          <td>Straße 2, 12345 Berlin, Germany</td>
+        </tr>
+        <tr>
+          <td>Friends</td>
+          <td>
+            <ul rel="foaf:knows">
+              <li typeof="foaf:Person" resource="http://example.org/felix.html#me"><a property="foaf:name" rel="foaf:homepage" href="felix.html">Felix-Johannes Jendrusch</a></li>
+              <li typeof="foaf:Person" resource="http://example.org/robert.html#me"><a property="foaf:name" rel="foaf:homepage" href="robert.html">Robert Böhnke</a></li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p about="" resource="http://www.w3.org/TR/rdfa-syntax" rel="dc:conformsTo" xmlns:dc="http://purl.org/dc/terms/">
+      <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml-rdfa" alt="Valid XHTML + RDFa" height="31" width="88" /></a>
+    </p>
+  </body>
+</html>
