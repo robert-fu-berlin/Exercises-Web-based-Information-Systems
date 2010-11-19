@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#"
+  xmlns:xml="http://www.w3.org/XML/1998/namespace"
+>
+  <foaf:Person rdf:about="http://example.org/simon.html#me">
+    <foaf:mbox rdf:resource="mailto:simhoh@gmx.de"/>
+    <foaf:phone rdf:resource="tel:+49-123-34567890"/>
+    <foaf:img rdf:resource="smiley.png"/>
+    <foaf:knows>
+      <foaf:Person rdf:about="http://example.org/felix.html#me">
+        <foaf:homepage rdf:resource="felix.html"/>
+        <foaf:name xml:lang="en">Felix Jendrusch</foaf:name>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person rdf:about="http://example.org/robert.html#me">
+        <foaf:homepage rdf:resource="robert.html"/>
+        <foaf:name xml:lang="en">Robert Böhnke</foaf:name>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:name xml:lang="en">Felix-Johannes Jendrusch</foaf:name>
+  </foaf:Person>
+</rdf:RDF>
