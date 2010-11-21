@@ -5,9 +5,11 @@
 @prefix ex: <http://example.org/>.
 
 ex:Food rdf:type rdfs:Class.
-ex:Pizza a rdfs:Class; rdfs:subClassOf ex:Food.
+ex:Pizza a rdfs:Class;
+         rdfs:subClassOf ex:Food.
 
-(b) ...
+(b) Nein
+
 (c) Ja
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
@@ -16,12 +18,18 @@ ex:Pizza a rdfs:Class; rdfs:subClassOf ex:Food.
 
 ex:Pizza   a rdfs:Class.
 ex:Topping a rdfs:Class.
-ex:Tomato  a rdfs:Class; rdfs:subClassOf ex:Topping.
-ex:has_topping rdfs:domain :Pizza;
-  rdfs:range  :Topping.
+ex:Tomato  a rdfs:Class;
+           rdfs:subClassOf ex:Topping.
+
+ex:has_topping rdfs:domain ex:Pizza;
+               rdfs:range  ex:Topping.
+
 ex:PizzaMargherita rdfs:subClassOf ex:Pizza;
-  ex:has_topping ex:Tomato.
+                   ex:has_topping ex:Tomato.
 
 
-(d) Ja, siehe (c) ?
-(e) ...
+(d) Ja, siehe (c)
+
+ex:has_topping rdfs:domain ex:Pizza.
+
+(e) Nein
