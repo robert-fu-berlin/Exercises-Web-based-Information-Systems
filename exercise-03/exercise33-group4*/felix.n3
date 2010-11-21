@@ -1,4 +1,4 @@
-w<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/homepage> <simon.html>.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/homepage> <simon.html>.
 <http://example.org/simon.html#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
 <http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/name> "Simon Hohberg"@en.
 <http://example.org/robert.html#me> <http://xmlns.com/foaf/0.1/homepage> <robert.html>.
