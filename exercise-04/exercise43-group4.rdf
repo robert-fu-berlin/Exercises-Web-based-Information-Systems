@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:food="http://www.example.org/food#"
+  xml:base="http://www.example.org/food"
+>
+  <owl:Ontology rdf:about="http://www.example.org/food">
+    <rdfs:label>Food Ontology</rdfs:label>
+  </owl:Ontology>
+
+  <owl:Class rdf:ID="Pizza">
+    <owl:disjointWith rdf:resource="#PizzaTopping"/>
+    <rdfs:subClassOf>
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:minCardinality>2</owl:minCardinality>
+      </owl:Restriction> 
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="VegetarianPizza">
+    <owl:unionOf rdf:parseType="Collection">
+      <owl:Class rdf:about="#PizzaWithoutMeat"/>
+      <owl:Class rdf:about="#PizzaWithoutFish"/>
+    </owl:unionOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PizzaWithoutMeat">
+    <rdfs:subClassOf rdf:resource="#Pizza"/>
+    <rdfs:subClassOf>
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:allValuesFrom>
+          <owl:Class>
+            <owl:unionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vegetable"/>
+              <owl:Class rdf:about="#Fish"/>
+            </owl:unionOf>
+          </owl:Class>
+        </owl:allValuesFrom>
+      </owl:Restriction> 
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PizzaWithoutFish">
+    <rdfs:subClassOf rdf:resource="#Pizza"/>
+    <rdfs:subClassOf>
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:allValuesFrom>
+          <owl:Class>
+            <owl:unionOf rdf:parseType="Collection">
+              <owl:Class rdf:about="#Vegetable"/>
+              <owl:Class rdf:about="#Meat"/>
+            </owl:unionOf>
+          </owl:Class>
+        </owl:allValuesFrom>
+      </owl:Restriction> 
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="PizzaTopping"/>
+  <owl:Class rdf:ID="Vegetable">
+    <rdfs:subClassOf rdf:resource="#PizzaTopping"/>
+    <owl:disjointWith rdf:resource="#Meat"/>
+    <owl:disjointWith rdf:resource="#Fish"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Meat">
+    <rdfs:subClassOf rdf:resource="#PizzaTopping"/>
+    <owl:disjointWith rdf:resource="#Fish"/>
+  </owl:Class>
+  <owl:Class rdf:ID="Fish">
+    <rdfs:subClassOf rdf:resource="#PizzaTopping"/>
+  </owl:Class>
+  <owl:Class rdf:ID="PizzaMargharita">
+    <rdfs:subClassOf rdf:resource="#VegetarianPizza"/>
+    <owl:intersectionOf rdf:parseType="Collection">
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:cardinality>2</owl:cardinality>
+      </owl:Restriction>
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:hasValue rdf:resource="#Tomato"/>
+      </owl:Restriction>
+      <owl:Restriction> 
+        <owl:onProperty rdf:resource="#hasTopping"/>
+        <owl:hasValue rdf:resource="#Cheese"/>
+      </owl:Restriction>
+    </owl:intersectionOf>
+  </owl:Class>
+
+  <owl:ObjectProperty rdf:ID="hasTopping">
+    <rdfs:domain rdf:resource="#Pizza"/>
+    <rdfs:range rdf:resource="#PizzaTopping"/>
+  </owl:ObjectProperty>
+
+  <food:PizzaTopping rdf:ID="Tomato"/>
+  <food:PizzaTopping rdf:ID="Cheese"/>
+  <food:Vegetable rdf:ID="Aubergine"/>
+</rdf:RDF>

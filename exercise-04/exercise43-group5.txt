@@ -1,0 +1,11 @@
+* The role “hasIngredient” is transitive
+
+Ja. Wenn a Bestandteil von b und b Bestandteil von c ist, dann ist auch a Bestandteil von c.
+
+* The role “hasTopping” is functional
+
+Nein. Eine Pizza kann mehrere Beläge haben.
+
+* The role “hasTopping” is inverse functional
+
+Nein. Ein Belag kann auf verschiedenen Pizzen sein.
