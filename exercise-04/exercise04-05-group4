@@ -1,0 +1,34 @@
+a)
+
+01 Who borrowed video projector P?
+02 Who is giving the lecture in room R at time T?
+03 Which students fulfill the prerequisites for Course C?
+04 In which pool room is the PC B?
+05 Secretary S is a member of which faculty?
+06 Which lecturer is not giving any lectures this semester?
+07 Who has borrowed the most resources?
+08 Which lectures have not yet hit their limits of attending students?
+09 Which lecturer has given the most lectures?
+10 Which lecturer has also been a student of the faculty?
+11 Which lecture has the least number of students fulfilling its prerequisites?
+12 Which room houses the most lectures?
+13 Which students are at the faculty 5 days a week or more?
+14 Which room houses no lectures at all?
+15 Which lectures take place in the same room, at the same time?
+16 Which lectures have the courses X, Y, Z as prerequisites?
+17 Which lecture is a prerequisite of the most lectures?
+18 Which tutor takes part in the most lectures?
+19 Is student S ever in room R?
+20 
+
+b)
+
+Glossary
+
+Staff, Lecturer, Tutor, Secretary, Student Assistent, Research Staff,
+Lecture, Seminar, Room, Time, number of students, prerequisites,
+Resources, PC, Video projector
+
+c)
+
+See https://docs.google.com/drawings/edit?id=1th7k8obdjbGyyHgrf3uu4n7NHc59RJwL5XuuRFGZNs0&hl=en&authkey=CNbNsJwP
