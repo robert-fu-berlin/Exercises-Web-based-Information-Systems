@@ -1,0 +1,13 @@
+<http://example.org/felix.html#me> <http://xmlns.com/foaf/0.1/homepage> <felix.html>.
+<http://example.org/felix.html#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+<http://example.org/felix.html#me> <http://xmlns.com/foaf/0.1/name> "Felix-Johannes Jendrusch"@en.
+<http://example.org/robert.html#me> <http://xmlns.com/foaf/0.1/homepage> <robert.html>.
+<http://example.org/robert.html#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+<http://example.org/robert.html#me> <http://xmlns.com/foaf/0.1/name> "Robert Böhnke"@en.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/mbox> <mailto:simhoh@gmx.de>.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/img> <smiley.png>.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/knows> <http://example.org/felix.html#me>.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/knows> <http://example.org/robert.html#me>.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/name> "Simon Hohberg"@en.
+<http://example.org/simon.html#me> <http://xmlns.com/foaf/0.1/phone> <tel:+49-123-4567890>.
+<http://example.org/simon.html#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
