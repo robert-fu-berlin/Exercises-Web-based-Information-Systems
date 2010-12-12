@@ -1,0 +1,269 @@
+a)
+
+01 Who borrowed video projector P?
+02 Who is giving the lecture in room R at time T?
+03 Which students fulfill the prerequisites for Course C?
+04 In which pool room is the PC B?
+05 Secretary S is a member of which faculty?
+06 Which lecturer is not giving any lectures this semester?
+07 Who has borrowed the most resources?
+08 Which lectures have not yet hit their limits of attending students?
+09 Which lecturer has given the most lectures?
+10 Which lecturer has also been a student of the faculty?
+11 Which lecture has the least number of students fulfilling its prerequisites?
+12 Which room houses the most lectures?
+13 Which students are at the faculty 5 days a week or more?
+14 Which room houses no lectures at all?
+15 Which lectures take place in the same room, at the same time?
+16 Which lectures have the courses X, Y, Z as prerequisites?
+17 Which lecture is a prerequisite of the most lectures?
+18 Which tutor takes part in the most lectures?
+19 Is student S ever in room R?
+20 Do stundents S and T have any lectures in common?
+
+b)
+
+Glossary
+
+Staff, Lecturer, Tutor, Secretary, Student Assistent, Research Staff,
+Lecture, Seminar, Room, Time, number of students, prerequisites,
+Resources, PC, Video projector
+
+c)
+
+See https://docs.google.com/drawings/edit?id=1th7k8obdjbGyyHgrf3uu4n7NHc59RJwL5XuuRFGZNs0&hl=en&authkey=CNbNsJwP
+
+d)
+
+<?xml version="1.0"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY Ontology1292174488355 "http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#" >
+]>
+
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#"
+     xml:base="http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:Ontology1292174488355="http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl"/>
+    
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="&rdfs;comment"/>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#fulfills_prerequisites -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;fulfills_prerequisites">
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Student"/>
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="&Ontology1292174488355;has_finished"/>
+            <rdf:Description rdf:about="&Ontology1292174488355;is_prerequisite_of"/>
+        </owl:propertyChainAxiom>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#gives -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;gives">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Lecturer"/>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#has_finished -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;has_finished">
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Student"/>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#has_prerequisite -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;has_prerequisite">
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Lecture"/>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#is_given_by -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;is_given_by">
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <owl:inverseOf rdf:resource="&Ontology1292174488355;gives"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#is_prerequisite_of -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;is_prerequisite_of">
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Lecture"/>
+        <owl:inverseOf rdf:resource="&Ontology1292174488355;has_prerequisite"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#takes_part_in -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;takes_part_in">
+        <rdfs:range rdf:resource="&Ontology1292174488355;Lecture"/>
+        <rdfs:domain rdf:resource="&Ontology1292174488355;Student"/>
+    </owl:ObjectProperty>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#takes_place_in -->
+
+    <owl:ObjectProperty rdf:about="&Ontology1292174488355;takes_place_in">
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&Ontology1292174488355;takes_place_in"/>
+                <owl:someValuesFrom rdf:resource="&Ontology1292174488355;Lecture"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&Ontology1292174488355;takes_place_in"/>
+                <owl:onClass rdf:resource="&Ontology1292174488355;Room"/>
+                <owl:minQualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minQualifiedCardinality>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <owl:ObjectProperty rdf:about="&owl;topObjectProperty"/>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Lecture -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Lecture">
+        <rdfs:comment xml:lang="de">Eine Vorlesung die von einem Dozenten gehalten wird</rdfs:comment>
+        <rdfs:comment xml:lang="en">Represent a lecture given by a Lecturer</rdfs:comment>
+    </owl:Class>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Lecturer -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Lecturer">
+        <rdfs:subClassOf rdf:resource="&Ontology1292174488355;Person"/>
+        <rdfs:comment xml:lang="de">Ein Dozent der Vorlesung hält</rdfs:comment>
+        <rdfs:comment xml:lang="en">A lecturer who gives lectures</rdfs:comment>
+    </owl:Class>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Person -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Person"/>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Room -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Room">
+        <rdfs:comment xml:lang="de">Ein Raum der Fakultät</rdfs:comment>
+        <rdfs:comment xml:lang="en">A room of the faculty</rdfs:comment>
+    </owl:Class>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Student -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Student">
+        <rdfs:subClassOf rdf:resource="&Ontology1292174488355;Person"/>
+        <rdfs:comment xml:lang="de">Ein Student der an Vorlesungen teilnimt</rdfs:comment>
+        <rdfs:comment xml:lang="en">A student taking part in lectures</rdfs:comment>
+    </owl:Class>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Tutor -->
+
+    <owl:Class rdf:about="&Ontology1292174488355;Tutor">
+        <rdfs:subClassOf rdf:resource="&Ontology1292174488355;Person"/>
+    </owl:Class>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Adrian_Paschke -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Adrian_Paschke">
+        <rdf:type rdf:resource="&Ontology1292174488355;Lecturer"/>
+        <rdfs:comment xml:lang="de">Prof. Paschke</rdfs:comment>
+        <rdfs:comment xml:lang="en">Prof. Paschke</rdfs:comment>
+        <gives rdf:resource="&Ontology1292174488355;Web_Based_Information_Systems"/>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Algorithmen_und_Programmierung_1 -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Algorithmen_und_Programmierung_1"/>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Algorithmen_und_Programmierung_2 -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Algorithmen_und_Programmierung_2">
+        <has_prerequisite rdf:resource="&Ontology1292174488355;Algorithmen_und_Programmierung_1"/>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Raum_005 -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Raum_005">
+        <rdf:type rdf:resource="&Ontology1292174488355;Room"/>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Robert_Böhnke -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Robert_Böhnke">
+        <rdf:type rdf:resource="&Ontology1292174488355;Student"/>
+        <rdfs:comment xml:lang="de">Das bin ich</rdfs:comment>
+        <rdfs:comment xml:lang="en">That&#39;s me</rdfs:comment>
+        <has_finished rdf:resource="&Ontology1292174488355;Algorithmen_und_Programmierung_1"/>
+        <takes_part_in rdf:resource="&Ontology1292174488355;Web_Based_Information_Systems"/>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#Web_Based_Information_Systems -->
+
+    <owl:NamedIndividual rdf:about="&Ontology1292174488355;Web_Based_Information_Systems">
+        <rdf:type rdf:resource="&Ontology1292174488355;Lecture"/>
+        <is_given_by rdf:resource="&Ontology1292174488355;Adrian_Paschke"/>
+        <takes_place_in rdf:resource="&Ontology1292174488355;Raum_005"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.1.0.20069) http://owlapi.sourceforge.net -->
+
+e)
+
+We consulted http://watson.kmi.open.ac.uk/WatsonWUI/onto_check.html?q=http://www.cs.vu.nl/~kubbe/webkr/alldata.rdfs
+and expanded upon their ideas by adding a chained property http://www.semanticweb.org/ontologies/2010/11/Ontology1292174488355.owl#fulfills_prerequisites
