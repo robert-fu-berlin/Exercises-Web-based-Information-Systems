@@ -2,8 +2,8 @@
 
 % Rules
 % base prices
-basePrice(P,8) :- adult(P).
-basePrice(P,4) :- child(P).
+basePrice(P,Discount,8*Discount) :- adult(P).
+basePrice(P,Discount,4*Discount) :- child(P).
 
 % couples receive a 5% discount
 discount([A,B],0.05) :- male(A),female(B).
@@ -12,4 +12,17 @@ discount([A,B],0.05) :- male(B),female(A).
 % a parent with two children receives a 10% discount
 discount([A,C1,C2],0.1) :- adult(A),child(C1),child(C2).
 discount([C1,A,C2],0.1) :- adult(A),child(C1),child(C2).
-discount([C1,C2,A],0.1) :- adult(A),child(C1),child(C2).	
+discount([C1,C2,A],0.1) :- adult(A),child(C1),child(C2).
+
+priceWithDiscount([],Discount,Price) :- Price = 0.
+
+priceWithDiscount([P:Ps],Discount,Price) :-
+	priceWithDiscount(Ps,Discount,Price1),
+	basePrice(P,Discount,Price2),
+	Price = Price1 + Price2.
+
+price([P:Ps],Price) :- 
+	discount([P:Ps],Discount),
+	priceWithDiscount(Ps,Discount,Price1),
+	basePrice(P,Discount,Price2),
+	Price = Price1 + Price2.
