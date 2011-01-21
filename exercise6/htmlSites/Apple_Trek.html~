@@ -1,0 +1,808 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="linux firefox firefox3 gecko gecko1" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+
+<title>Apple Trek - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="generator" content="MediaWiki 1.16wmf4">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=edit">
+<link rel="edit" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=edit">
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://en.wikipedia.org/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="Apple_Trek_files/main-ltr.css" type="text/css" media="screen">
+<link rel="stylesheet" href="Apple_Trek_files/shared.css" type="text/css" media="screen">
+<link rel="stylesheet" href="Apple_Trek_files/commonPrint.css" type="text/css" media="print">
+<link rel="stylesheet" href="Apple_Trek_files/combined.css" type="text/css" media="all">
+<link rel="stylesheet" href="Apple_Trek_files/jquery-ui-1.css" type="text/css" media="all">
+<link rel="stylesheet" href="Apple_Trek_files/index_004.css" type="text/css" media="all">
+<link rel="stylesheet" href="Apple_Trek_files/index_005.css" type="text/css" media="print">
+<link rel="stylesheet" href="Apple_Trek_files/index_002.css" type="text/css" media="handheld">
+<link rel="stylesheet" href="Apple_Trek_files/index_003.css" type="text/css" media="all">
+<link rel="stylesheet" href="Apple_Trek_files/index.css" type="text/css" media="all">
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Apple_Trek",
+wgTitle="Apple Trek",
+wgAction="view",
+wgArticleId=20122093,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=404993910,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgSiteName="Wikipedia",
+wgCategories=["1979 video games", "Apple II games", "Star Trek games", "Star Trek: The Original Series video games", "Star Trek starship simulators", "Video games with textual graphics", "Video game stubs"],
+wgDBname="enwiki",
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgFlaggedRevsParams={"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}},
+wgStableRevisionId=null,
+wgRevContents={"error": "Unable to get content.", "waiting": "Waiting for content"},
+wgWikimediaMobileUrl="http://en.m.wikipedia.org/wiki",
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+wgArticleAssessmentJUIPath="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/js2stopgap/jui.combined.min.js",
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikipedia";
+</script><script src="Apple_Trek_files/wikibits.js" type="text/javascript"></script>
+<script type="text/javascript" src="Apple_Trek_files/jquery.js"></script>
+<script src="Apple_Trek_files/ajax.js" type="text/javascript"></script>
+<script src="Apple_Trek_files/mwsuggest.js" type="text/javascript"></script>
+<script src="Apple_Trek_files/MobileRedirect.js" type="text/javascript"></script>
+<script src="Apple_Trek_files/plugins.js" type="text/javascript"></script>
+<script src="Apple_Trek_files/Vector.js" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'More languages','vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="Apple_Trek_files/index.php" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="Apple_Trek_files/index_003.php" type="text/javascript"></script><script type="text/javascript" src="Apple_Trek_files/index_002.php"></script>
+
+</head><body class="mediawiki ltr ns-0 ns-subject page-Apple_Trek skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content"><div style="visibility: hidden; display: none; width: 602px; height: 402px; margin: 0px; padding: 0px; background-color: white; position: absolute; right: 2em; top: 1em; border: 1px solid gray; z-index: 13;"><iframe style="z-index: 14; position: absolute; right: 1px; top: 1px; width: 600px; height: 400px; margin: 0px; padding: 0px;" frameborder="0" scrolling="no"></iframe><img style="z-index: 15; position: absolute; right: 11px; top: 9px; width: 18px; cursor: pointer;" src="Apple_Trek_files/Button_hide.png" title="close"></div>
+			<a id="top"></a>
+			<div id="mw-js-message" style="display: none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><div id="centralNotice" class="expanded"><style type="text/css">
+#notice-button-2010 {
+  float: right;
+  height: 30px;
+  text-align: center;
+  background-color: transparent;
+ }
+
+#notice-button-2010-start {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: right bottom;
+  width: 8px;
+  height: 30px;
+ }
+
+ #notice-button-2010-end {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: left top;
+  width: 8px;
+  height: 30px;
+ }
+ 
+#notice-button-2010-label {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: center center;
+  background-repeat: repeat-x;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color: black;
+  line-height: 30px;
+  height: 30px;
+  white-space: nowrap;
+ }
+
+#notice-button-2010-Editor {
+ position:absolute;
+ height: 30px;
+ text-align: center;
+ background-color: transparent;
+ left: 40px;
+ bottom: 15px;
+}
+
+#notice-button-2010-start-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: left top;
+  width: 8px;
+  height: 30px;
+ }
+
+ #notice-button-2010-end-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: right bottom;
+  width: 8px;
+  height: 30px;
+ }
+ 
+#notice-button-2010-label-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: center center;
+  background-repeat: repeat-x;
+  font-family: sans-serif;
+  font-size: .5em;
+  font-weight: bold;
+  color: black;
+  line-height: 30px;
+  height: 30px;
+  white-space: nowrap;
+ }
+</style>
+
+<style type="text/css">
+
+
+#centralNotice.collapsed #WIKX008{
+  display: none;
+ }
+
+#WIKX008{
+  position: relative;
+  overflow: hidden;
+  background-position: center left;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  margin-bottom: 0.5em !important;
+  background-color:#FFFFFF;
+  border: solid 1px black; 
+  height:115px;
+}
+
+#WIKX008-logo {
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/6/60/B05_CN115.jpg);
+  height:115px;
+  width: 170px;
+  background-position: top left;
+  position: relative;
+  overflow: hidden;
+ }
+
+a.cn-full-banner-click {
+ display:block;
+ position:relative;
+ height:100%;
+ width:100%;
+}
+
+/* Bigger bold, blue text */
+#WIKX008-text {
+ font-size: 2em;
+ font-weight: bold;
+ font-family: Helvetica, sans-serif;
+ color: #0019e8;
+ padding: 1em;
+ position:absolute;
+ left: 215px;
+ top: 10px;
+ line-height: 1em;
+ text-align:center;
+}
+
+#WIKX008-text:hover {
+ text-decoration: underline
+}
+
+#WIKX008 a {
+ text-decoration: none;
+}
+
+ 
+ #WIKX008 div#cn-toggle-box {
+  position: absolute;
+  z-index: 1000;
+  top: .2em;
+  right: .2em;
+ }
+
+#notice-button-2010-JimmyTrans{
+   position:absolute;
+   text-align: center;
+   background-color: transparent;
+   right:10px;
+   bottom:10px;
+ }
+ 
+
+
+</style>
+
+
+
+<div id="WIKX008">
+<a class="variable_lp cn-full-banner-click" href="http://ten.wikipedia.org/wiki/Main%20Page">
+<div id="WIKX008-logo"></div>
+<div id="WIKX008-text">
+ We're celebrating Wikipedia's 10th anniversary. <br> Want to join?
+	</div>
+
+   <div id="notice-button-2010-JimmyTrans">
+      <div id="notice-button-2010-start"></div>
+      <div id="notice-button-2010-label">Read more</div>
+      <div id="notice-button-2010-end"></div>
+   </div>
+
+
+</a>
+<div id="cn-toggle-box">
+<a href="#" onclick="toggleNotice();return false"><img src="Apple_Trek_files/closewindow.png" alt="Close" border="0" height="13" width="13"></a>
+</div>
+
+</div></div><!-- centralNotice loads here --><script type="text/javascript" language="JavaScript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script><div id="localNotice"><p></p>
+</div>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><i>Apple Trek</i></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="infobox vevent" style="float: right; width: 264px; font-size: 90%; text-align: left;" cellpadding="3" cellspacing="0">
+<tbody><tr>
+<th colspan="2" style="text-align: center;" class="summary"><span style="font-size: 111%;"><i>Apple Trek</i></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="http://en.wikipedia.org/wiki/File:Apple_Trek.gif" class="image"><img alt="Apple Trek.gif" src="Apple_Trek_files/282px-Apple_Trek.gif" height="194" width="282"></a><br></td>
+</tr>
+<tr style="">
+<td><b><a href="http://en.wikipedia.org/wiki/Video_game_publisher" title="Video game publisher">Publisher(s)</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Apple_Inc" title="Apple Inc" class="mw-redirect">Apple Inc</a></td>
+</tr>
+<tr style="background: none repeat scroll 0% 0% rgb(240, 240, 240);">
+<td><b><a href="http://en.wikipedia.org/wiki/Computing_platform" title="Computing platform">Platform(s)</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Apple_II" title="Apple II" class="mw-redirect">Apple II</a></td>
+</tr>
+<tr style="">
+<td><span style="white-space: nowrap;"><b>Release date(s)</b></span></td>
+<td><span style="white-space: nowrap;"><small><sup><a href="http://en.wikipedia.org/wiki/International_version" title="International version">INT</a></sup></small> 1979</span><br></td>
+</tr>
+<tr style="background: none repeat scroll 0% 0% rgb(240, 240, 240);">
+<td><b>Mode(s)</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Single-player" title="Single-player" class="mw-redirect">Single-player</a></td>
+</tr>
+</tbody></table>
+<p><i><b>Apple Trek</b></i> is a <a href="http://en.wikipedia.org/wiki/Computer_game" title="Computer game" class="mw-redirect">computer game</a> for the <a href="http://en.wikipedia.org/wiki/Apple_II_series" title="Apple II series">Apple II</a> family of computers based on the <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series" title="Star Trek: The Original Series">Star Trek</a></i> science fiction series. This is similar to the earlier mainframe-based <i><a href="http://en.wikipedia.org/wiki/Star_Trek_%28text_game%29" title="Star Trek (text game)">Star Trek</a></i> game. It runs in text mode and was written in <a href="http://en.wikipedia.org/wiki/Integer_BASIC" title="Integer BASIC">Integer BASIC</a>.</p>
+<p>The object of the game is to defeat all the <a href="http://en.wikipedia.org/wiki/Klingons" title="Klingons" class="mw-redirect">Klingons</a> (called "Klarnons" in some versions) on the board. Resources may be replenished at starbases.</p>
+<p>A depiction of the known quadrants is at the top of the text screen, 
+with three-digit numbers indicating the number of Klingons, the number 
+of starbases and the number of stars respectively. Navigating to a 
+different quadrant reveals the adjacent quadrants. A depiction of the 
+quadrant in which the <a href="http://en.wikipedia.org/wiki/Starship_Enterprise" title="Starship Enterprise">Enterprise</a> is present is in the lower left.</p>
+<p>Absolute position is given as ordered pairs: vertical, from the top; and horizontal, from the left. Angle notation is <a href="http://en.wikipedia.org/wiki/Polar_coordinates#Position_and_navigation" title="Polar coordinates" class="mw-redirect">navigation style</a>: 0 degrees at the top, counting clockwise.</p>
+<p>Two unusual features the game had, for text-based Star Trek games, 
+were that when torpedoes were fired the player would see them travel, 
+and also that the Klingons had torpedoes (in these early games, they 
+were usually armed only with disruptors).</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="http://www.virtualapple.org/appletrekdisk.html" class="external text" rel="nofollow">Apple Trek</a> at the Virtual Apple Online Disk Archive</li>
+<li><a href="http://www.gamewinners.com/faq.php?game=a/AppleTrek-Paula.txt" class="external text" rel="nofollow">Command reference</a></li>
+<li><a href="http://www.dunnington.u-net.com/public/startrek/APPLETREK" class="external text" rel="nofollow">BASIC source code</a></li>
+</ul>
+<table class="navbox" style="" cellspacing="0">
+<tbody><tr>
+<td style="padding: 2px;">
+<table id="collapsibleTable0" class="nowraplinks collapsible autocollapse" style="width: 100%; background: none repeat scroll 0% 0% transparent; color: inherit;" cellspacing="0">
+<tbody><tr>
+<th style="" colspan="2" class="navbox-title"><span class="collapseButton">[<a href="#" id="collapseButton0">show</a>]</span><span style="float: left; width: 6em; text-align: left;"><span class="noprint plainlinks navbar" style=""><a href="http://en.wikipedia.org/wiki/Template:Star_Trek_video_games" title="Template:Star Trek video games"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="View this template">v</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/wiki/Template_talk:Star_Trek_video_games" title="Template talk:Star Trek video games"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Discuss this template">d</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/w/index.php?title=Template:Star_Trek_video_games&amp;action=edit" class="external text" rel="nofollow"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Edit this template">e</span></a></span></span><span class="" style="font-size: 110%;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek" title="Star Trek">Star Trek</a></i> <a href="http://en.wikipedia.org/wiki/Star_Trek_games" title="Star Trek games">video games</a></span></th>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style=""><a href="http://en.wikipedia.org/wiki/Action_game" title="Action game">Action games</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek_Generations:_Beyond_the_Nexus" title="Star Trek Generations: Beyond the Nexus">Beyond the Nexus</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force" title="Star Trek: Voyager - Elite Force">Elite Force</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Elite_Force_II" title="Star Trek: Elite Force II">Elite Force II</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine:_The_Fallen" title="Star Trek: Deep Space Nine: The Fallen">The Fallen</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek_Generations_%28video_game%29" title="Star Trek Generations (video game)">Generations</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Hidden_Evil" title="Star Trek: Hidden Evil">Hidden Evil</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation:_Klingon_Honor_Guard" title="Star Trek: The Next Generation: Klingon Honor Guard">Klingon Honor Guard</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Phaser_Strike" title="Star Trek: Phaser Strike">Phaser Strike</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek_%28arcade_game%29" title="Star Trek (arcade game)">Star Trek</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_%28video_game%29" title="Star Trek: The Next Generation (video game)">The Next Generation</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_The_Arcade_Game" title="Star Trek: Voyager - The Arcade Game">Voyager - The Arcade Game</a></i></span></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style=""><a href="http://en.wikipedia.org/wiki/Adventure_game" title="Adventure game">Adventure games</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_25th_Anniversary_%28video_game%29" title="Star Trek: 25th Anniversary (video game)"><i>25th Anniversary</i> <small>(1991)</small></a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_25th_Anniversary_%281992_video_game%29" title="Star Trek: 25th Anniversary (1992 video game)"><i>25th Anniversary</i> <small>(1992)</small></a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_%E2%80%93_A_Final_Unity" title="Star Trek: The Next Generation - A Final Unity">A Final Unity</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation:_A_World_For_All_Seasons" title="Star Trek: The Next Generation: A World For All Seasons">A World For All Seasons</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Borg" title="Star Trek: Borg">Borg</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation:_Echoes_from_the_Past" title="Star Trek: The Next Generation: Echoes from the Past">Echoes from the Past</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation:_Future%27s_Past" title="Star Trek: The Next Generation: Future's Past">Future's Past</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine:_Harbinger" title="Star Trek: Deep Space Nine: Harbinger">Harbinger</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Judgment_Rites" title="Star Trek: Judgment Rites">Judgment Rites</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Klingon" title="Star Trek: Klingon">Klingon</a></i></span></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style=""><a href="http://en.wikipedia.org/wiki/Space_flight_simulator_game" title="Space flight simulator game">Simulation games</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Bridge_Commander" title="Star Trek: Bridge Commander">Bridge Commander</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Encounters" title="Star Trek: Encounters">Encounters</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Invasion" title="Star Trek: Invasion">Invasion</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Klingon_Academy" title="Star Trek: Klingon Academy">Klingon Academy</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Shattered_Universe" title="Star Trek: Shattered Universe">Shattered Universe</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_%28video_game%29" title="Star Trek: Starfleet Academy (video game)">Starfleet Academy</a></i> (<i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_Starship_Bridge_Simulator" title="Star Trek: Starfleet Academy Starship Bridge Simulator">Starship Bridge Simulator</a></i>)</span></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style=""><a href="http://en.wikipedia.org/wiki/Strategy_video_game" title="Strategy video game">Strategy games</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Armada" title="Star Trek: Armada">Armada</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Armada_II" title="Star Trek: Armada II">Armada II</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Away_Team" title="Star Trek: Away Team">Away Team</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation:_Birth_of_the_Federation" title="Star Trek: The Next Generation: Birth of the Federation">Birth of the Federation</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek_DAC" title="Star Trek DAC">DAC</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Conquest" title="Star Trek: Conquest">Conquest</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_ConQuest_Online" title="Star Trek: ConQuest Online">ConQuest Online</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine:_Dominion_Wars" title="Star Trek: Deep Space Nine: Dominion Wars">Dominion Wars</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Legacy" title="Star Trek: Legacy">Legacy</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_New_Worlds" title="Star Trek: New Worlds">New Worlds</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Command" title="Star Trek: Starfleet Command">Starfleet Command</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Command_II:_Empires_at_War" title="Star Trek: Starfleet Command II: Empires at War">Starfleet Command II</a></i> (<i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Command:_Orion_Pirates" title="Star Trek: Starfleet Command: Orion Pirates">Orion Pirates</a></i>)&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Command_III" title="Star Trek: Starfleet Command III">Starfleet Command III</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Tactical_Assault" title="Star Trek: Tactical Assault">Tactical Assault</a></i></span></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="">Other games</td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Starship_Creator" title="Star Trek: Starship Creator">Starship Creator</a></i>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek_Online" title="Star Trek Online">Star Trek Online</a></i></span></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="">Studios</td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Interplay_Entertainment" title="Interplay Entertainment">Interplay Entertainment</a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster Interactive</a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/MicroProse" title="MicroProse">MicroProse</a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Activision" title="Activision">Activision</a>&nbsp;<span style="font-weight: bold;">·</span></span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Bethesda_Softworks" title="Bethesda Softworks">Bethesda Softworks</a></span></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table class="navbox" style="" cellspacing="0">
+<tbody><tr>
+<td style="padding: 2px;">
+<table id="collapsibleTable1" class="nowraplinks collapsible autocollapse" style="width: 100%; background: none repeat scroll 0% 0% transparent; color: inherit;" cellspacing="0">
+<tbody><tr>
+<th style="" colspan="2" class="navbox-title"><span class="collapseButton">[<a href="#" id="collapseButton1">show</a>]</span><span style="float: left; width: 6em; text-align: left;"><span class="noprint plainlinks navbar" style=""><a href="http://en.wikipedia.org/wiki/Template:Star_Trek" title="Template:Star Trek"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="View this template">v</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/wiki/Template_talk:Star_Trek" title="Template talk:Star Trek"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Discuss this template">d</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/w/index.php?title=Template:Star_Trek&amp;action=edit" class="external text" rel="nofollow"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Edit this template">e</span></a></span></span><span class="" style="font-size: 110%;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek" title="Star Trek">Star Trek</a></i></span></th>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series" title="Star Trek: The Original Series">The Original Series</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series#Cast" title="Star Trek: The Original Series">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes" title="List of Star Trek: The Original Series episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_1_.281966.E2.80.931967.29" title="List of Star Trek: The Original Series episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_2_.281967.E2.80.931968.29" title="List of Star Trek: The Original Series episodes">2</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_3_.281968.E2.80.931969.29" title="List of Star Trek: The Original Series episodes">3</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Christine_Chapel" title="Christine Chapel">Christine Chapel</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Pavel_Chekov" title="Pavel Chekov">Pavel Chekov</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/James_T._Kirk" title="James T. Kirk">James T. Kirk</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Leonard_McCoy" title="Leonard McCoy">Leonard McCoy</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Janice_Rand" title="Janice Rand">Janice Rand</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Montgomery_Scott" title="Montgomery Scott">Montgomery Scott</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Spock" title="Spock">Spock</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Hikaru_Sulu" title="Hikaru Sulu">Hikaru Sulu</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Uhura" title="Uhura">Uhura</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series" title="Star Trek: The Animated Series">The Animated Series</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Animated_Series_episodes" title="List of Star Trek: The Animated Series episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Animated_Series_episodes#Season_1_.281973.E2.80.931974.29" title="List of Star Trek: The Animated Series episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Animated_Series_episodes#Season_2_.281974.29" title="List of Star Trek: The Animated Series episodes">2</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Arex" title="Arex">Arex</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Christine_Chapel" title="Christine Chapel">Christine Chapel</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/James_T._Kirk" title="James T. Kirk">James T. Kirk</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/M%27Ress" title="M'Ress">M'Ress</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Leonard_McCoy" title="Leonard McCoy">Leonard McCoy</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Montgomery_Scott" title="Montgomery Scott">Montgomery Scott</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Spock" title="Spock">Spock</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Hikaru_Sulu" title="Hikaru Sulu">Hikaru Sulu</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Uhura" title="Uhura">Uhura</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation" title="Star Trek: The Next Generation">The Next Generation</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation#Cast" title="Star Trek: The Next Generation">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes" title="List of Star Trek: The Next Generation episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_1_.281987.E2.80.931988.29" title="List of Star Trek: The Next Generation episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_2_.281988.E2.80.931989.29" title="List of Star Trek: The Next Generation episodes">2</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_3_.281989.E2.80.931990.29" title="List of Star Trek: The Next Generation episodes">3</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_4_.281990.E2.80.931991.29" title="List of Star Trek: The Next Generation episodes">4</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_5_.281991.E2.80.931992.29" title="List of Star Trek: The Next Generation episodes">5</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_6_.281992.E2.80.931993.29" title="List of Star Trek: The Next Generation episodes">6</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes#Season_7_.281993.E2.80.931994.29" title="List of Star Trek: The Next Generation episodes">7</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Beverly_Crusher" title="Beverly Crusher">Beverly Crusher</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Wesley_Crusher" title="Wesley Crusher">Wesley Crusher</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Data_%28Star_Trek%29" title="Data (Star Trek)">Data</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Geordi_La_Forge" title="Geordi La Forge">Geordi La Forge</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Jean-Luc_Picard" title="Jean-Luc Picard">Jean-Luc Picard</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Katherine_Pulaski" title="Katherine Pulaski">Katherine Pulaski</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/William_Riker" title="William Riker">William Riker</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Deanna_Troi" title="Deanna Troi">Deanna Troi</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Worf" title="Worf">Worf</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Tasha_Yar" title="Tasha Yar">Tasha Yar</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine" title="Star Trek: Deep Space Nine">Deep Space Nine</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine#Cast" title="Star Trek: Deep Space Nine">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes" title="List of Star Trek: Deep Space Nine episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_1_.281993.29" title="List of Star Trek: Deep Space Nine episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_2_.281993.E2.80.931994.29" title="List of Star Trek: Deep Space Nine episodes">2</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_3_.281994.E2.80.931995.29" title="List of Star Trek: Deep Space Nine episodes">3</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_4_.281995.E2.80.931996.29" title="List of Star Trek: Deep Space Nine episodes">4</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_5_.281996.E2.80.931997.29" title="List of Star Trek: Deep Space Nine episodes">5</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_6_.281997.E2.80.931998.29" title="List of Star Trek: Deep Space Nine episodes">6</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Deep_Space_Nine_episodes#Season_7_.281998.E2.80.931999.29" title="List of Star Trek: Deep Space Nine episodes">7</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Julian_Bashir" title="Julian Bashir">Julian Bashir</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Ezri_Dax" title="Ezri Dax">Ezri Dax</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Jadzia_Dax" title="Jadzia Dax">Jadzia Dax</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Kira_Nerys" title="Kira Nerys">Kira Nerys</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Miles_O%27Brien_%28Star_Trek%29" title="Miles O'Brien (Star Trek)">Miles O'Brien</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Odo_%28Star_Trek%29" title="Odo (Star Trek)">Odo</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Quark_%28Star_Trek%29" title="Quark (Star Trek)">Quark</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Benjamin_Sisko" title="Benjamin Sisko">Benjamin Sisko</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Jake_Sisko" title="Jake Sisko">Jake Sisko</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Worf" title="Worf">Worf</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Voyager" title="Star Trek: Voyager">Voyager</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_Voyager#Cast" title="Star Trek: Voyager">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes" title="List of Star Trek: Voyager episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_1_.281995.29" title="List of Star Trek: Voyager episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_2_.281995.E2.80.931996.29" title="List of Star Trek: Voyager episodes">2</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_3_.281996.E2.80.931997.29" title="List of Star Trek: Voyager episodes">3</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_4_.281997.E2.80.931998.29" title="List of Star Trek: Voyager episodes">4</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_5_.281998.E2.80.931999.29" title="List of Star Trek: Voyager episodes">5</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_6_.281999.E2.80.932000.29" title="List of Star Trek: Voyager episodes">6</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Voyager_episodes#Season_7_.282000.E2.80.932001.29" title="List of Star Trek: Voyager episodes">7</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Chakotay" title="Chakotay">Chakotay</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Doctor_%28Star_Trek%29" title="Doctor (Star Trek)">The Doctor</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Kathryn_Janeway" title="Kathryn Janeway">Kathryn Janeway</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Kes_%28Star_Trek%29" title="Kes (Star Trek)">Kes</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Harry_Kim_%28Star_Trek%29" title="Harry Kim (Star Trek)">Harry Kim</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Neelix" title="Neelix">Neelix</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Tom_Paris" title="Tom Paris">Tom Paris</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Seven_of_Nine" title="Seven of Nine">Seven of Nine</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/B%27Elanna_Torres" title="B'Elanna Torres">B'Elanna Torres</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Tuvok" title="Tuvok">Tuvok</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Enterprise" title="Star Trek: Enterprise">Enterprise</a></i></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"></div>
+<table class="nowraplinks navbox-subgroup" style="width: 100%;" cellspacing="0">
+<tbody><tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek:_Enterprise#Cast" title="Star Trek: Enterprise">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes" title="List of Star Trek: Enterprise episodes">Episodes</a> (Season <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_1_.282001.E2.80.932002.29" title="List of Star Trek: Enterprise episodes">1</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_2_.282002.E2.80.932003.29" title="List of Star Trek: Enterprise episodes">2</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_3_.282003.E2.80.932004.29" title="List of Star Trek: Enterprise episodes">3</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek:_Enterprise_episodes#Season_4_.282004.E2.80.932005.29" title="List of Star Trek: Enterprise episodes">4</a>)</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Jonathan_Archer" title="Jonathan Archer">Jonathan Archer</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Travis_Mayweather" title="Travis Mayweather">Travis Mayweather</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Phlox_%28Star_Trek%29" title="Phlox (Star Trek)">Phlox</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Malcolm_Reed" title="Malcolm Reed">Malcolm Reed</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Hoshi_Sato" title="Hoshi Sato">Hoshi Sato</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/T%27Pol" title="T'Pol">T'Pol</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Trip_Tucker" title="Trip Tucker">Charles "Trip" Tucker III</a></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><a href="http://en.wikipedia.org/wiki/Star_Trek_%28film_series%29" title="Star Trek (film series)">Film series</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><i><a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture" title="Star Trek: The Motion Picture">The Motion Picture</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan" title="Star Trek II: The Wrath of Khan">The Wrath of Khan</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock" title="Star Trek III: The Search for Spock">The Search for Spock</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home" title="Star Trek IV: The Voyage Home">The Voyage Home</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier" title="Star Trek V: The Final Frontier">The Final Frontier</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country" title="Star Trek VI: The Undiscovered Country">The Undiscovered Country</a></i>&nbsp;<span style="font-weight: bold;">·</span>  <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Generations" title="Star Trek: Generations" class="mw-redirect">Generations</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_First_Contact" title="Star Trek: First Contact">First Contact</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Insurrection" title="Star Trek: Insurrection">Insurrection</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Nemesis" title="Star Trek: Nemesis" class="mw-redirect">Nemesis</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Star_Trek_%28film%29" title="Star Trek (film)">Star Trek</a></i></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;"><a href="http://en.wikipedia.org/wiki/Star_Trek_spin-off_fiction" title="Star Trek spin-off fiction">Other media</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek_games" title="Star Trek games">Games</a>&nbsp;<span style="font-weight: bold;">·</span> Literature (<a href="http://en.wikipedia.org/wiki/List_of_Star_Trek_novels" title="List of Star Trek novels">Novels</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Star_Trek_%28comics%29" title="Star Trek (comics)">Comics</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek_reference_books" title="List of Star Trek reference books">Reference books</a>)&nbsp;<span style="font-weight: bold;">·</span>  Documentaries (<i><a href="http://en.wikipedia.org/wiki/Trekkies_%28film%29" title="Trekkies (film)">Trekkies</a></i>&nbsp;<span style="font-weight: bold;">·</span> <i><a href="http://en.wikipedia.org/wiki/Trekkies_2" title="Trekkies 2">Trekkies 2</a></i>)</div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;">Miscellaneous</td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/List_of_Star_Trek_characters" title="List of Star Trek characters">Characters</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Prime_Directive" title="Prime Directive">Prime Directive</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek_races" title="List of Star Trek races">Alien races</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/United_Federation_of_Planets" title="United Federation of Planets">United Federation of Planets</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Timeline_of_Star_Trek" title="Timeline of Star Trek">Timeline</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Stardate" title="Stardate">Stardates</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Lists_of_Star_Trek_ships" title="Lists of Star Trek ships">Ships</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Starfleet" title="Starfleet">Starfleet</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Starship_Enterprise" title="Starship Enterprise">USS <i>Enterprise</i></a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/USS_Defiant" title="USS Defiant">USS <i>Defiant</i></a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/USS_Voyager_%28Star_Trek%29" title="USS Voyager (Star Trek)">USS <i>Voyager</i></a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Deep_Space_Nine_%28space_station%29" title="Deep Space Nine (space station)">Deep Space Nine</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_weapons_in_Star_Trek" title="List of weapons in Star Trek">Weapons</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/%E2%80%99u%E2%80%99" title="u">u (Klingon opera)</a></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-group" style="text-align: left;">Related topics</td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;"><a href="http://en.wikipedia.org/wiki/Star_Trek_canon" title="Star Trek canon">Canon</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Cultural_influence_of_Star_Trek" title="Cultural influence of Star Trek">Cultural influence</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Star_Trek_fan_productions" title="Star Trek fan productions">Fan productions</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Category:Star_Trek_fandom" title="Category:Star Trek fandom">Fandom</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Medicine_in_Star_Trek" title="Medicine in Star Trek">Medicine</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Physics_and_Star_Trek" title="Physics and Star Trek">Physics</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Sexuality_in_Star_Trek" title="Sexuality in Star Trek">Sexuality</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/List_of_Star_Trek_production_staff" title="List of Star Trek production staff">Production staff</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Experience" title="Star Trek: The Experience">Star Trek: The Experience</a>&nbsp;<span style="font-weight: bold;">·</span> <a href="http://en.wikipedia.org/wiki/Star_Trek_the_Exhibition" title="Star Trek the Exhibition">Star Trek the Exhibition</a>&nbsp;<span style="font-weight: bold;">·</span>  <i><a href="http://en.wikipedia.org/wiki/Star_Trek:_Phase_II" title="Star Trek: Phase II">Star Trek: Phase II</a></i>&nbsp;<span style="font-weight: bold;">·</span>  <a href="http://en.wikipedia.org/wiki/Trekkie" title="Trekkie">Trekkie</a></div>
+</td>
+</tr>
+<tr style="height: 2px; display: none;">
+<td></td>
+</tr>
+<tr style="display: none;">
+<td class="navbox-abovebelow" style="" colspan="2"><a href="http://en.wikipedia.org/wiki/Comparison_of_Star_Trek_and_Star_Wars" title="Comparison of Star Trek and Star Wars">Comparison to <i>Star Wars</i></a></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table class="metadata plainlinks stub" style="background: none repeat scroll 0% 0% transparent;">
+<tbody><tr>
+<td><a href="http://en.wikipedia.org/wiki/File:Gamepad.svg" class="image"><img alt="Stub icon" src="Apple_Trek_files/30px-Gamepad.png" height="30" width="30"></a></td>
+<td><i>This <a href="http://en.wikipedia.org/wiki/Video_game" title="Video game">video game</a> article is a <a href="http://en.wikipedia.org/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=edit" class="external text" rel="nofollow">expanding it</a>.</i><span class="noprint plainlinks navbar" style="position: absolute; right: 15px; font-size: smaller; display: none;"><a href="http://en.wikipedia.org/wiki/Template:Videogame-stub" title="Template:Videogame-stub"><span style="" title="View this template">v</span></a><span style="white-space: nowrap;"> <b>·</b> </span><a href="http://en.wikipedia.org/wiki/Template_talk:Videogame-stub" title="Template talk:Videogame-stub"><span style="" title="Discuss this template">d</span></a><span style="white-space: nowrap;"> <b>·</b> </span><a href="http://en.wikipedia.org/w/index.php?title=Template:Videogame-stub&amp;action=edit" class="external text" rel="nofollow"><span style="" title="Edit this template">e</span></a></span></td>
+</tr>
+</tbody></table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 5981/1000000
+Post-expand include size: 157376/2048000 bytes
+Template argument size: 99604/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20122093-0!1!0!default!!en!4 and timestamp 20110111220704 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Apple_Trek">http://en.wikipedia.org/wiki/Apple_Trek</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:1979_video_games" title="Category:1979 video games">1979 video games</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Apple_II_games" title="Category:Apple II games">Apple II games</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Star_Trek_games" title="Category:Star Trek games">Star Trek games</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Star_Trek:_The_Original_Series_video_games" title="Category:Star Trek: The Original Series video games">Star Trek: The Original Series video games</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Star_Trek_starship_simulators" title="Category:Star Trek starship simulators">Star Trek starship simulators</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Video_games_with_textual_graphics" title="Category:Video games with textual graphics">Video games with textual graphics</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Video_game_stubs" title="Category:Video game stubs">Video game stubs</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li id="pt-login"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Apple_Trek" title="You are encouraged to log in; however, it is not mandatory. [alt-shift-o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Apple_Trek" title="View the content page [alt-shift-c]" accesskey="c"><span>Article</span></a></li>
+					<li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Apple_Trek" title="Discussion about the content page [alt-shift-t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="http://en.wikipedia.org/wiki/Apple_Trek"><span>Read</span></a></li>
+					<li id="ca-edit"><a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=edit" title="You can edit this page. 
+Please use the preview button before saving. [alt-shift-e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;action=history" title="Past versions of this page [alt-shift-h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input name="title" value="Special:Search" type="hidden">
+				<div id="simpleSearch">
+			<input autocomplete="off" class="placeholder" tabindex="1" id="searchInput" name="search" title="Search Wikipedia [alt-shift-f]" accesskey="f" value="Search" type="text">
+			<button id="searchButton" type="submit" name="button" title="Search Wikipedia for this text"><img src="Apple_Trek_files/search-ltr.png" alt="Search"></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint collapsible-nav">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(&quot;http://upload.wikimedia.org/wikipedia/commons/d/d6/Wikipedia-logo-v2-en.png&quot;);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal first persistent" id="p-navigation">
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [alt-shift-z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [alt-shift-x]" accesskey="x">Random article</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001" title="Support us">Donate to Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal expanded" id="p-interaction">
+	<h5 tabindex="2">Interaction</h5>
+	<div style="display: block;" class="body">
+				<ul>
+					<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+					<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [alt-shift-r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal collapsed" id="p-tb">
+	<h5 tabindex="3">Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Apple_Trek" title="List of all English Wikipedia pages containing links to this page [alt-shift-j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Apple_Trek" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:Upload" title="Upload files [alt-shift-u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="List of all special pages [alt-shift-q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;oldid=404993910" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=Apple_Trek&amp;id=404993910" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal collapsed" id="p-coll-print_export">
+	<h5 tabindex="4">Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Apple+Trek" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Apple+Trek&amp;oldid=404993910&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="http://en.wikipedia.org/w/index.php?title=Apple_Trek&amp;printable=yes" title="Printable version of this page [alt-shift-p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 30 December 2010 at 14:06.<br></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display: none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br>
+Wikipedia® is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br></li><li class="noprint"><a class="internal" href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="Apple_Trek_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" height="31" width="88"></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="Apple_Trek_files/wikimedia-button.png" alt="Wikimedia Foundation" height="31" width="88"></a></li>
+							</ul>
+			<div style="clear: both;"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="Apple_Trek_files/a"></script>		<!-- Served by srv171 in 0.098 secs. -->			<div class="suggestions" style="top: 73px; width: 188px; display: none; left: auto; right: 42px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>

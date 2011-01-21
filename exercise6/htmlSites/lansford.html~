@@ -1,0 +1,768 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="linux firefox firefox3 gecko gecko1" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+
+<title>Lansford, Pennsylvania - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="generator" content="MediaWiki 1.16wmf4">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit">
+<link rel="edit" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit">
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://en.wikipedia.org/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="lansford_files/main-ltr.css" type="text/css" media="screen">
+<link rel="stylesheet" href="lansford_files/shared.css" type="text/css" media="screen">
+<link rel="stylesheet" href="lansford_files/commonPrint.css" type="text/css" media="print">
+<link rel="stylesheet" href="lansford_files/combined.css" type="text/css" media="all">
+<link rel="stylesheet" href="lansford_files/jquery-ui-1.css" type="text/css" media="all">
+<link rel="stylesheet" href="lansford_files/index_004.css" type="text/css" media="all">
+<link rel="stylesheet" href="lansford_files/index_005.css" type="text/css" media="print">
+<link rel="stylesheet" href="lansford_files/index_002.css" type="text/css" media="handheld">
+<link rel="stylesheet" href="lansford_files/index_003.css" type="text/css" media="all">
+<link rel="stylesheet" href="lansford_files/index.css" type="text/css" media="all">
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Lansford,_Pennsylvania",
+wgTitle="Lansford, Pennsylvania",
+wgAction="view",
+wgArticleId=131733,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=406621848,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgSiteName="Wikipedia",
+wgCategories=["Articles needing additional references from March 2008", "All articles needing additional references", "Geobox2 needing maintenance", "Boroughs in Pennsylvania", "Populated places established in 1845", "Populated places in Carbon County, Pennsylvania"],
+wgDBname="enwiki",
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgFlaggedRevsParams={"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}},
+wgStableRevisionId=null,
+wgRevContents={"error": "Unable to get content.", "waiting": "Waiting for content"},
+wgWikimediaMobileUrl="http://en.m.wikipedia.org/wiki",
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+wgArticleAssessmentJUIPath="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/js2stopgap/jui.combined.min.js",
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikipedia";
+</script><script src="lansford_files/wikibits.js" type="text/javascript"></script>
+<script type="text/javascript" src="lansford_files/jquery.js"></script>
+<script src="lansford_files/ajax.js" type="text/javascript"></script>
+<script src="lansford_files/mwsuggest.js" type="text/javascript"></script>
+<script src="lansford_files/MobileRedirect.js" type="text/javascript"></script>
+<script src="lansford_files/plugins.js" type="text/javascript"></script>
+<script src="lansford_files/Vector.js" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'More languages','vector-editwarning-warning':'Leaving this page may cause you to lose any changes you have made.\nIf you are logged in, you can disable this warning in the \"Editing\" section of your preferences.','vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="lansford_files/index.php" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="lansford_files/index_003.php" type="text/javascript"></script><script type="text/javascript" src="lansford_files/index_002.php"></script>
+
+</head><body class="mediawiki ltr ns-0 ns-subject page-Lansford_Pennsylvania skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content"><div style="visibility: hidden; display: none; width: 602px; height: 402px; margin: 0px; padding: 0px; background-color: white; position: absolute; right: 2em; top: 1em; border: 1px solid gray; z-index: 13;"><iframe style="z-index: 14; position: absolute; right: 1px; top: 1px; width: 600px; height: 400px; margin: 0px; padding: 0px;" frameborder="0" scrolling="no"></iframe><img style="z-index: 15; position: absolute; right: 11px; top: 9px; width: 18px; cursor: pointer;" src="lansford_files/Button_hide.png" title="close"></div>
+			<a id="top"></a>
+			<div id="mw-js-message" style="display: none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><div id="centralNotice" class="expanded"><style type="text/css">
+#notice-button-2010 {
+  float: right;
+  height: 30px;
+  text-align: center;
+  background-color: transparent;
+ }
+
+#notice-button-2010-start {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: right bottom;
+  width: 8px;
+  height: 30px;
+ }
+
+ #notice-button-2010-end {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: left top;
+  width: 8px;
+  height: 30px;
+ }
+ 
+#notice-button-2010-label {
+  float: right;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: center center;
+  background-repeat: repeat-x;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color: black;
+  line-height: 30px;
+  height: 30px;
+  white-space: nowrap;
+ }
+
+#notice-button-2010-Editor {
+ position:absolute;
+ height: 30px;
+ text-align: center;
+ background-color: transparent;
+ left: 40px;
+ bottom: 15px;
+}
+
+#notice-button-2010-start-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: left top;
+  width: 8px;
+  height: 30px;
+ }
+
+ #notice-button-2010-end-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: right bottom;
+  width: 8px;
+  height: 30px;
+ }
+ 
+#notice-button-2010-label-Editor {
+  float: left;
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/3/3d/CNbasicButtonParts.png);
+  background-position: center center;
+  background-repeat: repeat-x;
+  font-family: sans-serif;
+  font-size: .5em;
+  font-weight: bold;
+  color: black;
+  line-height: 30px;
+  height: 30px;
+  white-space: nowrap;
+ }
+</style>
+
+<style type="text/css">
+
+
+#centralNotice.collapsed #WIKX008{
+  display: none;
+ }
+
+#WIKX008{
+  position: relative;
+  overflow: hidden;
+  background-position: center left;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  margin-bottom: 0.5em !important;
+  background-color:#FFFFFF;
+  border: solid 1px black; 
+  height:115px;
+}
+
+#WIKX008-logo {
+  background-image: url(http://upload.wikimedia.org/wikipedia/foundation/6/60/B05_CN115.jpg);
+  height:115px;
+  width: 170px;
+  background-position: top left;
+  position: relative;
+  overflow: hidden;
+ }
+
+a.cn-full-banner-click {
+ display:block;
+ position:relative;
+ height:100%;
+ width:100%;
+}
+
+/* Bigger bold, blue text */
+#WIKX008-text {
+ font-size: 2em;
+ font-weight: bold;
+ font-family: Helvetica, sans-serif;
+ color: #0019e8;
+ padding: 1em;
+ position:absolute;
+ left: 215px;
+ top: 10px;
+ line-height: 1em;
+ text-align:center;
+}
+
+#WIKX008-text:hover {
+ text-decoration: underline
+}
+
+#WIKX008 a {
+ text-decoration: none;
+}
+
+ 
+ #WIKX008 div#cn-toggle-box {
+  position: absolute;
+  z-index: 1000;
+  top: .2em;
+  right: .2em;
+ }
+
+#notice-button-2010-JimmyTrans{
+   position:absolute;
+   text-align: center;
+   background-color: transparent;
+   right:10px;
+   bottom:10px;
+ }
+ 
+
+
+</style>
+
+
+
+<div id="WIKX008">
+<a class="variable_lp cn-full-banner-click" href="http://ten.wikipedia.org/wiki/Main%20Page">
+<div id="WIKX008-logo"></div>
+<div id="WIKX008-text">
+ We're celebrating Wikipedia's 10th anniversary. <br> Want to join?
+	</div>
+
+   <div id="notice-button-2010-JimmyTrans">
+      <div id="notice-button-2010-start"></div>
+      <div id="notice-button-2010-label">Read more</div>
+      <div id="notice-button-2010-end"></div>
+   </div>
+
+
+</a>
+<div id="cn-toggle-box">
+<a href="#" onclick="toggleNotice();return false"><img src="lansford_files/closewindow.png" alt="Close" border="0" height="13" width="13"></a>
+</div>
+
+</div></div><!-- centralNotice loads here --><script type="text/javascript" language="JavaScript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script><div id="localNotice"><p></p>
+</div>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Lansford, Pennsylvania</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="metadata plainlinks ambox ambox-content" style="">
+<tbody><tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="lansford_files/50px-Question_book-new.png" height="39" width="50"></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br>
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <i>(March 2008)</i></small></td>
+</tr>
+</tbody></table>
+<div><span style="font-size: small;"><span id="coordinates"><a href="http://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><img class="noprint" style="padding: 0px 3px 0px 0px; cursor: pointer;" alt="" title="show location on an interactive map" src="lansford_files/18px-Erioll_world.png"><a href="http://toolserver.org/%7Egeohack/geohack.php?pagename=Lansford,_Pennsylvania&amp;params=40_49_53_N_75_53_0_W_type:city_region:US-PA" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°49′53″N</span> <span class="longitude">75°53′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.83139°N 75.883333°W</span><span style="display: none;">﻿ / <span class="geo">40.83139; -75.883333</span></span></span></a></span></span></span></div>
+<table class="infobox geography" style="width: 256px; padding: 0pt; font-size: 89%;">
+<tbody><tr class="mergedtoprow" title="Location name (local name)">
+<td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.25em; background-color: rgb(223, 223, 223);">Borough of Lansford</td>
+</tr>
+<tr class="mergedbottomrow" title="Category">
+<td colspan="2" style="text-align: center; background-color: rgb(223, 223, 223);">Settlement</td>
+</tr>
+<tr class="mergedtoprow" title="Country/Countries in which the site lies">
+<th style="white-space: nowrap;">Country</th>
+<td><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr class="mergedrow" title="State/States in which the site lies">
+<th style="white-space: nowrap;">State</th>
+<td><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a></span></td>
+</tr>
+<tr class="mergedrow" title="Regions in which the site lies">
+<th style="white-space: nowrap;">County</th>
+<td><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Carbon_County,_Pennsylvania" title="Carbon County, Pennsylvania">Carbon</a></span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Elevation above sea level (ASL)">
+<th style="white-space: nowrap;">Elevation</th>
+<td><span style="white-space: nowrap;">1,145 ft</span> <span style="white-space: nowrap;">(349 m)</span></td>
+</tr>
+<tr class="mergedrow" title="Geographic coordinates">
+<th style="white-space: nowrap;">Coordinates</th>
+<td><span style="white-space: nowrap;"><span class="plainlinks nourlexpansion"><img class="noprint" style="padding: 0px 3px 0px 0px; cursor: pointer;" alt="" title="show location on an interactive map" src="lansford_files/18px-Erioll_world.png"><a href="http://toolserver.org/%7Egeohack/geohack.php?pagename=Lansford,_Pennsylvania&amp;params=40_49_53_N_75_53_0_W_type:city_region:US-PA" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°49′53″N</span> <span class="longitude">75°53′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.83139°N 75.883333°W</span><span style="display: none;">﻿ / <span class="geo">40.83139; -75.883333</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="area">
+<th style="white-space: nowrap;">Area</th>
+<td><span style="white-space: nowrap;">1.6 sq mi</span> <span style="white-space: nowrap;">(4.1 km²)</span></td>
+</tr>
+<tr class="mergedrow" title="Land area">
+<td style="white-space: nowrap;">&nbsp;-&nbsp;land</td>
+<td><span style="white-space: nowrap;">1.6 sq mi</span> <span style="white-space: nowrap;">(4 km²)</span></td>
+</tr>
+<tr class="mergedrow" title="Water area">
+<td style="white-space: nowrap;">&nbsp;-&nbsp;water</td>
+<td><span style="white-space: nowrap;">0.0 sq mi</span> <span style="white-space: nowrap;">(0 km²)</span>, 0%</td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Total population">
+<th style="white-space: nowrap;">Population</th>
+<td>4,230&nbsp;(<i>2000</i>)</td>
+</tr>
+<tr class="mergedrow" title="Population density">
+<th style="white-space: nowrap;">Density</th>
+<td><span style="white-space: nowrap;">2,710.0 / sq mi</span> <span style="white-space: nowrap;">(1,046.3 / km²)</span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Basic timezone">
+<th style="white-space: nowrap;">Timezone</th>
+<td><a href="http://en.wikipedia.org/wiki/North_American_Eastern_Time_Zone" title="North American Eastern Time Zone" class="mw-redirect">EST</a> (<a href="http://en.wikipedia.org/wiki/UTC-5" title="UTC-5" class="mw-redirect">UTC-5</a>)</td>
+</tr>
+<tr class="mergedrow" title="Summer (Daylight saving) time">
+<td style="white-space: nowrap;">&nbsp;-&nbsp;summer (DST)</td>
+<td><a href="http://en.wikipedia.org/wiki/Eastern_Daylight_Time" title="Eastern Daylight Time" class="mw-redirect">EDT</a> (<a href="http://en.wikipedia.org/wiki/UTC-4" title="UTC-4" class="mw-redirect">UTC-4</a>)</td>
+</tr>
+<tr class="mergedrow" title="Postal code">
+<th style="white-space: nowrap;">ZIP Code</th>
+<td>18232</td>
+</tr>
+<tr class="mergedrow" title="Area (Dialling) code">
+<th style="white-space: nowrap;">Area code</th>
+<td><a href="http://en.wikipedia.org/wiki/Area_code_570" title="Area code 570">570</a></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="width: 256px; margin-left: auto; margin-right: auto;">
+<div style="position: relative;">
+<div style="position: relative;"><a href="http://en.wikipedia.org/wiki/File:Map_of_Lansford,_Carbon_County,_Pennsylvania_Highlighted.png" class="image" title="Location of Lansford in Carbon County"><img alt="" src="lansford_files/256px-Map_of_Lansford_Carbon_County_Pennsylvania_Highlighted.png" height="225" width="256"></a></div>
+</div>
+<div style="padding-top: 0.4em; text-align: center;">Location of Lansford in Carbon County</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="width: 256px; margin-left: auto; margin-right: auto;">
+<div style="position: relative;">
+<div style="position: relative;"><a href="http://en.wikipedia.org/wiki/File:Pennsylvania_Locator_Map.PNG" class="image" title="Location of Lansford in Pennsylvania"><img alt="" src="lansford_files/256px-Pennsylvania_Locator_Map.PNG" height="147" width="256"></a></div>
+<div style="position: absolute; left: 199.11px; top: 78.26px; padding: 0pt;"><img alt="" src="lansford_files/9px-Locator_Red.png" height="9" width="9"></div>
+</div>
+<div style="padding-top: 0.4em; text-align: center;">Location of Lansford in Pennsylvania</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div style="width: 256px; margin-left: auto; margin-right: auto;">
+<div style="position: relative;">
+<div style="position: relative;"><a href="http://en.wikipedia.org/wiki/File:Map_of_USA_PA.svg" class="image" title="Location of Pennsylvania in the United States"><img alt="" src="lansford_files/256px-Map_of_USA_PA.png" height="166" width="256"></a></div>
+</div>
+<div style="padding-top: 0.4em; text-align: center;">Location of Pennsylvania in the United States</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<p><b>Lansford</b> is a borough in <a href="http://en.wikipedia.org/wiki/Carbon_County,_Pennsylvania" title="Carbon County, Pennsylvania">Carbon County</a>, <a href="http://en.wikipedia.org/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, located 27&nbsp;miles (43&nbsp;km) northwest of <a href="http://en.wikipedia.org/wiki/Allentown,_Pennsylvania" title="Allentown, Pennsylvania">Allentown</a> and 9 miles south of <a href="http://en.wikipedia.org/wiki/Hazleton,_Pennsylvania" title="Hazleton, Pennsylvania">Hazleton</a>.
+ Settled in 1845, Lansford was incorporated in 1876. In 1900, 4,888 
+people lived in Lansford; in 1910, 8,321 people inhabited it, and in 
+1940, 8,710 residents called Lansford home. The population was 4,230 at 
+the 2000 census. Lansford grew with the development of local <a href="http://en.wikipedia.org/wiki/Anthracite" title="Anthracite">anthracite</a> <a href="http://en.wikipedia.org/wiki/Coal_mine" title="Coal mine" class="mw-redirect">coal mines</a>.</p>
+<p>The old No. 9 Mine and Museum in Lansford, a deep mine which operated from 1855 to 1972, is now open as a <a href="http://en.wikipedia.org/wiki/Tourist_attraction" title="Tourist attraction">tourist attraction</a> offering tours of the mine and a wealth of information on local mining history. A <a href="http://en.wikipedia.org/wiki/Museum" title="Museum">museum</a>
+ occupying the mine's former Wash Shanty building on the site displays a
+ large collection of mining artifacts. One of the local mine bosses, 
+John P. Jones, was murdered in Lansford, reportedly in connection with 
+labor union strife, attributed to members of a secret society known as 
+the <a href="http://en.wikipedia.org/wiki/Molly_Maguires" title="Molly Maguires">Molly Maguires</a>, many of whom were put on trial and hanged in Carbon and Schuylkill Counties during the mid- to late 1870's.</p>
+<table id="toc" class="toc">
+<tbody><tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+ <span class="toctoggle">[<a href="#" class="internal" id="togglelink">hide</a>]</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Media"><span class="tocnumber">3</span> <span class="toctext">Media</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notable_residents"><span class="tocnumber">4</span> <span class="toctext">Notable residents</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+<script type="text/javascript">
+//<![CDATA[
+if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+//]]>
+</script>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a>]</span> <span class="mw-headline" id="Geography">Geography</span></h2>
+<p>According to the <a href="http://en.wikipedia.org/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>, the borough has a total area of 1.6&nbsp;square miles (4.0&nbsp;km²), all of it land. Lansford is 1&nbsp;mile north of <a href="http://en.wikipedia.org/wiki/Summit_Hill,_Pennsylvania" title="Summit Hill, Pennsylvania">Summit Hill</a>, and 10&nbsp;miles west of <a href="http://en.wikipedia.org/wiki/Lehighton,_Pennsylvania" title="Lehighton, Pennsylvania">Lehighton</a> and 5&nbsp;miles northeast of <a href="http://en.wikipedia.org/wiki/Tamaqua,_Pennsylvania" title="Tamaqua, Pennsylvania">Tamaqua</a>. Lansford's elevation is 1145&nbsp;feet above sea level.</p>
+<p>Since 1952, Lansford has been home to <a href="http://en.wikipedia.org/wiki/WLSH" title="WLSH">WLSH</a> 1410 on the AM dial. The call letters stand for Lansford and neighboring Summit Hill.</p>
+<p>Ron Hood is the Mayor of Lansford and is assisted by a council. The 
+town also has a fire department, police force, and ambulance 
+corporation.</p>
+<p>Lansford is part of the Panther Valley School District and home of their newly remodeled football stadium and walking track.</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit&amp;section=2" title="Edit section: Demographics">edit</a>]</span> <span class="mw-headline" id="Demographics">Demographics</span></h2>
+<p>As of the <a href="http://en.wikipedia.org/wiki/Census" title="Census">census</a><sup id="cite_ref-GR2_0-0" class="reference"><a href="#cite_note-GR2-0"><span>[</span>1<span>]</span></a></sup> of 2000, there were 4,230 people, 1,878 households, and 1,098 families residing in the borough. The <a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">population density</a>
+ was 2,710.0 people per square mile (1,046.9/km²). There were 2,228 
+housing units at an average density of 1,427.4/sq&nbsp;mi (551.4/km²). 
+The racial makeup of the borough was 98.18% <a href="http://en.wikipedia.org/wiki/White_%28U.S._Census%29" title="White (U.S. Census)" class="mw-redirect">White</a>, 0.35% <a href="http://en.wikipedia.org/wiki/African_American_%28U.S._Census%29" title="African American (U.S. Census)" class="mw-redirect">African American</a>, 0.07% <a href="http://en.wikipedia.org/wiki/Native_American_%28U.S._Census%29" title="Native American (U.S. Census)" class="mw-redirect">Native American</a>, 0.31% <a href="http://en.wikipedia.org/wiki/Asian_%28U.S._Census%29" title="Asian (U.S. Census)" class="mw-redirect">Asian</a>, 0.07% <a href="http://en.wikipedia.org/wiki/Pacific_Islander_%28U.S._Census%29" title="Pacific Islander (U.S. Census)" class="mw-redirect">Pacific Islander</a>, 0.28% from <a href="http://en.wikipedia.org/wiki/Race_%28United_States_Census%29" title="Race (United States Census)" class="mw-redirect">other races</a>, and 0.73% from two or more races. <a href="http://en.wikipedia.org/wiki/Hispanic_%28U.S._Census%29" title="Hispanic (U.S. Census)" class="mw-redirect">Hispanic</a> or <a href="http://en.wikipedia.org/wiki/Latino_%28U.S._Census%29" title="Latino (U.S. Census)" class="mw-redirect">Latino</a> of any race were 1.42% of the population.</p>
+<p>There were 1,878 households out of which 24.6% had children under the age of 18 living with them, 38.4% were <a href="http://en.wikipedia.org/wiki/Marriage" title="Marriage">married couples</a>
+ living together, 14.9% had a female householder with no husband 
+present, and 41.5% were non-families. 37.7% of all households were made 
+up of individuals and 23.4% had someone living alone who was 65 years of
+ age or older. The average household size was 2.23 and the average 
+family size was 2.92.</p>
+<p>In the borough the population was spread out with 22.5% under the age
+ of 18, 7.3% from 18 to 24, 25.6% from 25 to 44, 19.1% from 45 to 64, 
+and 25.5% who were 65 years of age or older. The median age was 41 
+years. For every 100 females there were 84.1 males. For every 100 
+females age 18 and over, there were 80.2 males.</p>
+<p>The median income for a household in the borough was $27,478, and the
+ median income for a family was $37,773. Males had a median income of 
+$30,405 versus $22,255 for females. The <a href="http://en.wikipedia.org/wiki/Per_capita_income" title="Per capita income">per capita income</a> for the borough was $14,347. About 10.9% of families and 14.3% of the population were below the <a href="http://en.wikipedia.org/wiki/Poverty_line" title="Poverty line" class="mw-redirect">poverty line</a>, including 20.5% of those under age 18 and 10.4% of those age 65 or over.</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit&amp;section=3" title="Edit section: Media">edit</a>]</span> <span class="mw-headline" id="Media">Media</span></h2>
+<p><a href="http://en.wikipedia.org/wiki/WLSH" title="WLSH">WLSH</a>, a 
+5,000 watt station at 1410 on the AM dial with an Oldies format, 
+signed-on December 24, 1952. The call letters stand for Lansford and 
+neighboring, Summit Hill.</p>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit&amp;section=4" title="Edit section: Notable residents">edit</a>]</span> <span class="mw-headline" id="Notable_residents">Notable residents</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="http://en.wikipedia.org/wiki/List_of_people_from_the_Lehigh_Valley" title="List of people from the Lehigh Valley">List of people from the Lehigh Valley</a></div>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Benjamin_Bloom" title="Benjamin Bloom">Benjamin Bloom</a>, educational psychologist known for the <a href="http://en.wikipedia.org/wiki/Bloom%27s_Taxonomy" title="Bloom's Taxonomy">Bloom's Taxonomy</a> hierarchy of learning model.</li>
+<li><a href="http://en.wikipedia.org/wiki/Jimmy_Dorsey" title="Jimmy Dorsey">Jimmy Dorsey</a>, big band leader.</li>
+<li><a href="http://en.wikipedia.org/wiki/Tommy_Dorsey" title="Tommy Dorsey">Tommy Dorsey</a>, big band leader.</li>
+<li><a href="http://en.wikipedia.org/wiki/Richard_Marcinko" title="Richard Marcinko">Richard Marcinko</a>, founder of <a href="http://en.wikipedia.org/wiki/SEAL_Team_SIX" title="SEAL Team SIX" class="mw-redirect">SEAL Team SIX</a> and <a href="http://en.wikipedia.org/wiki/Red_Cell" title="Red Cell">Red Cell</a> and co-author, <i><a href="http://en.wikipedia.org/wiki/Rogue_Warrior" title="Rogue Warrior">Rogue Warrior</a></i>.</li>
+</ul>
+<h2><span class="editsection">[<a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="references">
+<ol>
+<li id="cite_note-GR2-0"><b><a href="#cite_ref-GR2_0-0">^</a></b> <span class="citation web"><a href="http://factfinder.census.gov/" class="external text" rel="nofollow">"American FactFinder"</a>. <a href="http://en.wikipedia.org/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a><span class="printonly">. <a href="http://factfinder.census.gov/" class="external free" rel="nofollow">http://factfinder.census.gov</a></span><span class="reference-accessdate">. Retrieved 2008-01-31</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=American+FactFinder&amp;rft.atitle=&amp;rft.pub=%5B%5BUnited+States+Census+Bureau%5D%5D&amp;rft_id=http%3A%2F%2Ffactfinder.census.gov&amp;rfr_id=info:sid/en.wikipedia.org:Lansford,_Pennsylvania"><span style="display: none;">&nbsp;</span></span></li>
+</ol>
+</div>
+<table class="navbox" style="" cellspacing="0">
+<tbody><tr>
+<td style="padding: 2px;">
+<table id="collapsibleTable0" class="nowraplinks collapsible autocollapse" style="width: 100%; background: none repeat scroll 0% 0% transparent; color: inherit;" cellspacing="0">
+<tbody><tr>
+<th style="background: none repeat scroll 0% 0% rgb(243, 209, 97);" colspan="3" class="navbox-title"><span class="collapseButton">[<a href="#" id="collapseButton0">hide</a>]</span><span style="float: left; width: 6em; text-align: left;"><span class="noprint plainlinks navbar" style=""><a href="http://en.wikipedia.org/wiki/Template:Carbon_County,_Pennsylvania" title="Template:Carbon County, Pennsylvania"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="View this template">v</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/wiki/Template_talk:Carbon_County,_Pennsylvania" title="Template talk:Carbon County, Pennsylvania"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Discuss this template">d</span></a><span style="white-space: nowrap; background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;"> <b>·</b> </span><a href="http://en.wikipedia.org/w/index.php?title=Template:Carbon_County,_Pennsylvania&amp;action=edit" class="external text" rel="nofollow"><span style="background: none repeat scroll 0% 0% transparent; border: medium none; font-size: 100%;" title="Edit this template">e</span></a></span></span><span class="adr" style="font-size: 110%;">Municipalities and communities of <span class="region"><a href="http://en.wikipedia.org/wiki/Carbon_County,_Pennsylvania" title="Carbon County, Pennsylvania"><span>Carbon County</span></a>, <a href="http://en.wikipedia.org/wiki/Pennsylvania" title="Pennsylvania"><span>Pennsylvania</span></a></span></span></th>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style="background: none repeat scroll 0% 0% rgb(243, 209, 97);" colspan="3"><a href="http://en.wikipedia.org/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="http://en.wikipedia.org/wiki/Jim_Thorpe,_Pennsylvania" title="Jim Thorpe, Pennsylvania"><span>Jim Thorpe</span></a></b></td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background: none repeat scroll 0% 0% rgb(243, 209, 97);"><a href="http://en.wikipedia.org/wiki/Borough_%28Pennsylvania%29" title="Borough (Pennsylvania)">Boroughs</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;">
+<div>
+<p><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Beaver_Meadows,_Pennsylvania" title="Beaver Meadows, Pennsylvania">Beaver Meadows</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Bowmanstown,_Pennsylvania" title="Bowmanstown, Pennsylvania">Bowmanstown</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/East_Side,_Pennsylvania" title="East Side, Pennsylvania">East Side</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Jim_Thorpe,_Pennsylvania" title="Jim Thorpe, Pennsylvania">Jim Thorpe</a> |</span> <span style="white-space: nowrap;"><strong class="selflink">Lansford</strong> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Lehighton,_Pennsylvania" title="Lehighton, Pennsylvania">Lehighton</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Nesquehoning,_Pennsylvania" title="Nesquehoning, Pennsylvania">Nesquehoning</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Palmerton,_Pennsylvania" title="Palmerton, Pennsylvania">Palmerton</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Parryville,_Pennsylvania" title="Parryville, Pennsylvania">Parryville</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Summit_Hill,_Pennsylvania" title="Summit Hill, Pennsylvania">Summit Hill</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Weatherly,_Pennsylvania" title="Weatherly, Pennsylvania">Weatherly</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Weissport,_Pennsylvania" title="Weissport, Pennsylvania">Weissport</a></span></p>
+</div>
+</div>
+</td>
+<td style="width: 0%; padding: 0px 0px 0px 2px;" rowspan="5">
+<div class="center">
+<div class="floatnone"><img alt="" src="lansford_files/180px-Map_of_Pennsylvania_highlighting_Carbon_County.png" height="103" width="180"></div>
+</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background: none repeat scroll 0% 0% rgb(243, 209, 97);"><a href="http://en.wikipedia.org/wiki/Township_%28Pennsylvania%29" title="Township (Pennsylvania)">Townships</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-even">
+<div style="padding: 0em 0.25em;">
+<div>
+<p><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Banks_Township,_Carbon_County,_Pennsylvania" title="Banks Township, Carbon County, Pennsylvania">Banks</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/East_Penn_Township,_Carbon_County,_Pennsylvania" title="East Penn Township, Carbon County, Pennsylvania">East Penn</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Franklin_Township,_Carbon_County,_Pennsylvania" title="Franklin Township, Carbon County, Pennsylvania">Franklin</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Kidder_Township,_Carbon_County,_Pennsylvania" title="Kidder Township, Carbon County, Pennsylvania">Kidder</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Lausanne_Township,_Carbon_County,_Pennsylvania" title="Lausanne Township, Carbon County, Pennsylvania" class="mw-redirect">Lausanne</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Lehigh_Township,_Carbon_County,_Pennsylvania" title="Lehigh Township, Carbon County, Pennsylvania">Lehigh</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Lower_Towamensing_Township,_Carbon_County,_Pennsylvania" title="Lower Towamensing Township, Carbon County, Pennsylvania">Lower Towamensing</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Mahoning_Township,_Carbon_County,_Pennsylvania" title="Mahoning Township, Carbon County, Pennsylvania">Mahoning</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Packer_Township,_Carbon_County,_Pennsylvania" title="Packer Township, Carbon County, Pennsylvania">Packer</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Penn_Forest_Township,_Carbon_County,_Pennsylvania" title="Penn Forest Township, Carbon County, Pennsylvania">Penn Forest</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Towamensing_Township,_Carbon_County,_Pennsylvania" title="Towamensing Township, Carbon County, Pennsylvania">Towamensing</a></span></p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height: 2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style="background: none repeat scroll 0% 0% rgb(243, 209, 97);"><a href="http://en.wikipedia.org/wiki/Census-designated_place" title="Census-designated place">CDPs</a></td>
+<td style="text-align: left; border-left-width: 2px; border-left-style: solid; width: 100%; padding: 0px;" class="navbox-list navbox-odd">
+<div style="padding: 0em 0.25em;">
+<div>
+<p><span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Tresckow,_Pennsylvania" title="Tresckow, Pennsylvania">Tresckow</a> |</span> <span style="white-space: nowrap;"><a href="http://en.wikipedia.org/wiki/Weissport_East,_Pennsylvania" title="Weissport East, Pennsylvania">Weissport East</a></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 4432/1000000
+Post-expand include size: 69878/2048000 bytes
+Template argument size: 27598/2048000 bytes
+Expensive parser function count: 3/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:131733-0!1!0!default!!en!4 and timestamp 20110112173928 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Lansford,_Pennsylvania">http://en.wikipedia.org/wiki/Lansford,_Pennsylvania</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Boroughs_in_Pennsylvania" title="Category:Boroughs in Pennsylvania">Boroughs in Pennsylvania</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Populated_places_established_in_1845" title="Category:Populated places established in 1845">Populated places established in 1845</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Populated_places_in_Carbon_County,_Pennsylvania" title="Category:Populated places in Carbon County, Pennsylvania">Populated places in Carbon County, Pennsylvania</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_March_2008" title="Category:Articles needing additional references from March 2008">Articles needing additional references from March 2008</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></span> | <span dir="ltr"><a href="http://en.wikipedia.org/wiki/Category:Geobox2_needing_maintenance" title="Category:Geobox2 needing maintenance">Geobox2 needing maintenance</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li id="pt-login"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Lansford,_Pennsylvania" title="You are encouraged to log in; however, it is not mandatory. [alt-shift-o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Lansford,_Pennsylvania" title="View the content page [alt-shift-c]" accesskey="c"><span>Article</span></a></li>
+					<li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Lansford,_Pennsylvania" title="Discussion about the content page [alt-shift-t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="http://en.wikipedia.org/wiki/Lansford,_Pennsylvania"><span>Read</span></a></li>
+					<li id="ca-edit"><a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=edit" title="You can edit this page. 
+Please use the preview button before saving. [alt-shift-e]" accesskey="e"><span>Edit</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;action=history" title="Past versions of this page [alt-shift-h]" accesskey="h"><span>View history</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input name="title" value="Special:Search" type="hidden">
+				<div id="simpleSearch">
+			<input autocomplete="off" class="placeholder" tabindex="1" id="searchInput" name="search" title="Search Wikipedia [alt-shift-f]" accesskey="f" value="Search" type="text">
+			<button id="searchButton" type="submit" name="button" title="Search Wikipedia for this text"><img src="lansford_files/search-ltr.png" alt="Search"></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint collapsible-nav">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(&quot;http://upload.wikimedia.org/wikipedia/commons/d/d6/Wikipedia-logo-v2-en.png&quot;);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal first persistent" id="p-navigation">
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [alt-shift-z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content - the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [alt-shift-x]" accesskey="x">Random article</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001" title="Support us">Donate to Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal expanded" id="p-interaction">
+	<h5 tabindex="2">Interaction</h5>
+	<div style="display: block;" class="body">
+				<ul>
+					<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+					<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [alt-shift-r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal collapsed" id="p-tb">
+	<h5 tabindex="3">Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Lansford,_Pennsylvania" title="List of all English Wikipedia pages containing links to this page [alt-shift-j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Lansford,_Pennsylvania" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:Upload" title="Upload files [alt-shift-u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="List of all special pages [alt-shift-q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;oldid=406621848" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=Lansford,_Pennsylvania&amp;id=406621848" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal collapsed" id="p-coll-print_export">
+	<h5 tabindex="4">Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lansford%2C+Pennsylvania" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lansford%2C+Pennsylvania&amp;oldid=406621848&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="http://en.wikipedia.org/w/index.php?title=Lansford,_Pennsylvania&amp;printable=yes" title="Printable version of this page [alt-shift-p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal expanded" id="p-lang">
+	<h5 tabindex="5">Languages</h5>
+	<div style="display: block;" class="body">
+		<ul>
+					<li class="interwiki-bg"><a href="http://bg.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%B4" title="Лансфорд">Български</a></li>
+					<li class="interwiki-ht"><a href="http://ht.wikipedia.org/wiki/Lansford,_Pennsilvani" title="Lansford, Pennsilvani">Kreyòl ayisyen</a></li>
+					<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Lansford_%28Pennsylvania%29" title="Lansford (Pennsylvania)">Nederlands</a></li>
+					<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Lansford_%28Pensilv%C3%A2nia%29" title="Lansford (Pensilvânia)">Português</a></li>
+					<li class="interwiki-vo"><a href="http://vo.wikipedia.org/wiki/Lansford_%28Pennsylvania%29" title="Lansford (Pennsylvania)">Volapük</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 8 January 2011 at 04:07.<br></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display: none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br>
+Wikipedia® is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br></li><li class="noprint"><a class="internal" href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="lansford_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" height="31" width="88"></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="lansford_files/wikimedia-button.png" alt="Wikimedia Foundation" height="31" width="88"></a></li>
+							</ul>
+			<div style="clear: both;"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="lansford_files/a"></script>		<!-- Served by srv283 in 0.094 secs. -->			<div class="suggestions" style="top: 73px; width: 188px; display: none; left: auto; right: 42px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>
