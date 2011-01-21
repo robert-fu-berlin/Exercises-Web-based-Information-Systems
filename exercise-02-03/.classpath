@@ -13,7 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/home/simon/opt/lucene-2.9.4/lucene-core-2.9.4.jar"/>
-	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-core-2.9.4.jar"/>
+	<classpathentry kind="lib" path="Guru.java"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
