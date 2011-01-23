@@ -77,6 +77,8 @@ public class HTMLDocument {
     // Add the title as a field that it can be searched and that is stored.
     doc.add(new Field("title", parser.getTitle(), Field.Store.YES, Field.Index.ANALYZED));
 
+    // Add meta tags
+    doc.add(new Field("metaDescription", parser.getMetaTags().getProperty("description"), Field.Store.YES, Field.Index.NOT_ANALYZED));
     // return the document
     return doc;
   }

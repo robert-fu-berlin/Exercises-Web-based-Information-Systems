@@ -14,6 +14,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
  -->
+<%@page import="java.util.*"%>
 <%@ page import = "  javax.servlet.*, javax.servlet.http.*, java.io.*, org.apache.lucene.analysis.*, org.apache.lucene.analysis.standard.StandardAnalyzer, org.apache.lucene.document.*, org.apache.lucene.index.*, org.apache.lucene.store.*, org.apache.lucene.search.*, org.apache.lucene.queryParser.*, org.apache.lucene.demo.*, org.apache.lucene.demo.html.Entities, java.net.URLEncoder, org.apache.lucene.util.Version" %>
 
 <%
@@ -140,6 +141,29 @@ public String escapeHTML(String s) {
                         thispage = hits.totalHits - startindex;      // set the max index to maxpage or last
                 }                                                   // actual search result whichever is less
 
+                // Compute HohbergRank
+                final Map<Document, Integer> scores = new HashMap<Document, Integer>();
+                for (ScoreDoc doc : hits.scoreDocs) {
+                	Document document = searcher.doc(doc.doc);
+                	String title = document.get("title");
+                	String metaDescription = document.get("metaDescription");
+                	int rank = 0;
+                	if (title.toLowerCase().contains(queryString))
+                		rank += 10;
+                	if (metaDescription.toLowerCase().contains(queryString))
+                		rank += 5;
+                	scores.put(document, rank);
+                }
+                
+                // Sort based on rank
+                Arrays.sort(hits.scoreDocs, new Comparator<ScoreDoc>(){
+                	public int compare(ScoreDoc o1, ScoreDoc o2) {
+                		Integer rank1 = scores.get(o1.doc);
+                		Integer rank2 = scores.get(o2.doc);
+                		return rank1.compareTo(rank2);
+                	}
+                });
+                
                 for (int i = startindex; i < (thispage + startindex); i++) {  // for each element
 %>
                 <tr>
