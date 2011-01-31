@@ -17,24 +17,30 @@
 
 \graphics default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \cite_engine basic
 \use_bibtopic false
 \paperorientation portrait
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
 \defskip medskip
-\quotes_language english
+\quotes_language german
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
 \tracking_changes false
 \output_changes false
+\author "" 
 \author "" 
 \end_header
 
@@ -125,8 +131,8 @@ Top-level Ontology
 \end_inset
 
 .
- Sie beschreibt nur grundlegende Konzepte und eine allgemeine Ordnung über
- die Konzepte.
+ Sie beschreibt nur grundlegende Konzepte und eine allgemeine hierachische
+ Ordnung über die Ähnlichkeit der Konzepte.
 \end_layout
 
 \begin_layout Standard
@@ -142,7 +148,54 @@ item[b.]
 
 \end_inset
 
+Sei 
+\begin_inset Formula $G=(V,E)$
+\end_inset
 
+ der Graph der beschriebenen Ontologie, wobei die Menge der Knoten 
+\begin_inset Formula $V$
+\end_inset
+
+ durch die Konzepte und die Menge der Kanten 
+\begin_inset Formula $E$
+\end_inset
+
+ durch ihre Beziehungen gegeben sind und Konzepte mit einer 
+\begin_inset Formula $sameAs$
+\end_inset
+
+ Beziehung durch einen einzigen Knoten repräsentiert werden; und 
+\begin_inset Formula $d:V\times V\rightarrow R_{0}^{+}$
+\end_inset
+
+ eine Funktion, welche die Länge eines kürzesten Pfades in 
+\begin_inset Formula $G$
+\end_inset
+
+ zwischen zwei Knoten 
+\begin_inset Formula $v_{i},v_{j}\in V$
+\end_inset
+
+ --- zwei Konzepten 
+\begin_inset Formula $c_{i},c_{j}\in O$
+\end_inset
+
+ --- berechnet.
+\end_layout
+
+\begin_layout Standard
+Die Ähnlichkeit zweier Konzepte 
+\begin_inset Formula $c_{i},c_{j}\in O$
+\end_inset
+
+ lässt sich beispielsweise wie folgt definieren:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $s(c_{i},c_{j})=1/(1+d(v_{i},v_{j})$
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -194,7 +247,50 @@ item[a.]
 
 \end_inset
 
+Es wird das 
+\begin_inset Quotes eld
+\end_inset
 
+Golf
+\begin_inset Quotes erd
+\end_inset
+
+ Dataset analysiert, welches Aussagen darüber macht, wann im Zusammenhang
+ mit der Wettervorhersage Golf gespielt werden soll.
+\end_layout
+
+\begin_layout Standard
+Wenn wir den resultierenden 
+\begin_inset Quotes eld
+\end_inset
+
+Decision Tree
+\begin_inset Quotes erd
+\end_inset
+
+ von links nach rechts durchgehen, ergeben sich folgende Aussagen:
+\end_layout
+
+\begin_layout Itemize
+Wird bedecktes Wetter vorhergesagt, wird gespielt.
+\end_layout
+
+\begin_layout Itemize
+Wird Regen und keinen Wind vorhergesagt, wird gespielt.
+\end_layout
+
+\begin_layout Itemize
+Wird Regen und Wind vorhergesagt, wird nicht gespielt.
+\end_layout
+
+\begin_layout Itemize
+Wird Sonne und eine Luftfeuchtigkeit vorhergesagt, die größer ist als 77.5,
+ wird nicht gespielt.
+\end_layout
+
+\begin_layout Itemize
+Wird Sonne und eine Luftfeuchtigkeit vorhergesagt, die kleiner oder gleich
+ 77.5 ist, wird gespielt.
 \end_layout
 
 \begin_layout Standard
@@ -210,7 +306,16 @@ item[b.]
 
 \end_inset
 
+Die vertikalen Linien sind die Ähnlichkeit zwischen den einzelnen Clustern
+ bzw.
+ Items, wobei eine kurze vertikale Linie eine große Ähnlichkeit und eine
+ lange Linie eine geringe Ähnlichkeit beschreibt.
+\end_layout
 
+\begin_layout Standard
+Um mithilfe des Dendograms einzelne Cluster zu definieren, wird im Dendogram
+ einfach in der Höhe der gewünschten Genauigkeit/Ähnlichkeit die dort vorhersche
+nde Clustereinteilung verwendet.
 \end_layout
 
 \begin_layout Standard
